@@ -13,10 +13,7 @@ public class RedirigirSalida {
             pb.redirectErrorStream(true); // Redirigir también los errores al archivo "salida.txt"
 
             // Iniciar el proceso (Bloc de Notas)
-            Process process = pb.start();
-
-            // Esperar a que el proceso termine (cuando cierras el Bloc de Notas)
-            process.waitFor();
+            pb.start().waitFor();
             System.out.println("Proceso terminado. Revisa el archivo salida.txt.");
 
         } catch (IOException | InterruptedException e) {

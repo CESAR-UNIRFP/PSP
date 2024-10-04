@@ -1,6 +1,6 @@
-import java.io.IOException;
+/*import java.io.IOException;
 
-/*public class Main
+public class Main
 {
     public static void main(String[] args)
     {
@@ -18,10 +18,12 @@ import java.io.IOException;
 }
 */
 
+
+
 public class Main {
     public static void main(String[] args) {
         // Crear una instancia de la clase ProcesoLanzador
-        ProcesoLanzador lanzador = new ProcesoLanzador();
+        LanzadorProceso lanzador = new LanzadorProceso();
 
         // Lanzar el proceso 3 veces
         for (int i = 1; i <= 3; i++) {
