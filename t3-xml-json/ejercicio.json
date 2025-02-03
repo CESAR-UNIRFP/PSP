@@ -1,0 +1,14 @@
+{
+  "nombre": "Juan Pérez",       // String
+  "edad": 30,                   // Number
+  "direccion": {                // Object
+    "calle": "Av. Siempre Viva",
+    "numero": 742
+  },
+  "telefonos": [                // Array
+    "123-456-789",
+    "987-654-321"
+  ],
+  "casado": false,              // Boolean
+  "hijos": null                 // Null
+}

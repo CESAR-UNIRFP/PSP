@@ -1,0 +1,8 @@
+{
+  "nombre":"Homer",
+  "edad":"45",
+  "genero":"masculino",
+  "email":"homer@dominio.com",
+  "localidad":"Springfield",
+  "telefono":"91000000"
+}

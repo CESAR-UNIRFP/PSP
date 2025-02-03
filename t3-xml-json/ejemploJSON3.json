@@ -1,0 +1,15 @@
+{
+  "nombre": "Homer",
+  "edad": "45",
+  "genero": "masculino",
+  "email": "homer@dominio.com",
+  "domicilio": {
+    "calle": "Percebe",
+    "numero": 7,
+    "piso": 2,
+    "puerta": "A"
+  },
+  "localidad": "Springfield",
+  "telefono": "91000000",
+  "aficiones": ["beber cerveza", "comer", "divertirse"]
+}

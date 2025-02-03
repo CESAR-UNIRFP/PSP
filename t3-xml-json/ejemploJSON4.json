@@ -1,0 +1,14 @@
+{
+  "empresa": "Ferreteria Carmela",
+  "domicilio": "C/ Luna, 45",
+  "empleados": [{
+    "nombre": "Juan",
+    "apellidos": "Gonzalez"
+  }, {
+    "nombre": "María",
+    "apellidos": "Alonso"
+  }, {
+    "nombre": "José",
+    "apellidos": "amohedo"
+  }]
+}

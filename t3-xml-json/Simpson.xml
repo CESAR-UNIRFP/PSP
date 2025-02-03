@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<grupo>
+    <persona idPersona="1">
+        <apellido>Simpson</apellido>
+        <edad>48</edad>
+        <nombre>Homer</nombre>
+    </persona>
+    <persona idPersona="2">
+        <apellido>Simpson</apellido>
+        <edad>12</edad>
+        <nombre>Lisa</nombre>
+    </persona>
+    <persona idPersona="3">
+        <apellido>Simpson</apellido>
+        <edad>13</edad>
+        <nombre>Bart</nombre>
+    </persona>
+    <persona idPersona="4">
+        <apellido>Simpson</apellido>
+        <edad>40</edad>
+        <nombre>Marge</nombre>
+    </persona>
+</grupo>
